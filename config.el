@@ -196,3 +196,5 @@
 (use-package! direnv
   :config
   (direnv-mode))
+
+(use-package! ron-mode)
